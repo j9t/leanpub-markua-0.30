@@ -1,1 +1,2 @@
 markdown-in-headings.md
+pipes.md
