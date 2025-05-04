@@ -1,7 +1,7 @@
 # Linked Floated Images
 
 {width: 30%, float: right}
-[![Book cover.](resources/images/cover.png)](https://meiert.com/en/blog/the-web-development-glossary-3k/)
+[![Book cover.](resources/images/cover.png)](https://meiert.com/blog/the-web-development-glossary-3k/)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vulputate, augue id eleifend vehicula, lacus felis imperdiet risus, et ornare nisl elit nec dui. Nullam id justo purus. Maecenas rutrum, diam eu egestas volutpat, purus risus lobortis neque, aliquet imperdiet ipsum lacus ut libero. Nullam id aliquam orci. Duis sit amet est sed leo ornare hendrerit. Etiam feugiat lectus augue, eu hendrerit mauris placerat quis. Vivamus interdum sollicitudin ante, in dictum nulla porttitor in.
 
