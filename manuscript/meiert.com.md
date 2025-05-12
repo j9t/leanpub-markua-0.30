@@ -5,7 +5,7 @@
 “1 + 1 = 3 (or more)” is an important design effect described by Josef Albers and [Edward Tufte](https://www.edwardtufte.com/). It means that two elements in close proximity cause a visible interaction:
 
 <figure>
-	<img src="https://meiert.com/en/upload/2007/01/1+1=3.gif" alt="Two parallel bars that appear to create a third element." loading="lazy">
+	<img src="https://meiert.com/media/2007/1+1=3.gif" alt="Two parallel bars that appear to create a third element." loading="lazy">
 	<figcaption>Figure: 1 + 1 = 3. (Copyright Al Globus.)</figcaption>
 </figure>
 
