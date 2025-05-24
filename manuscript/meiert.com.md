@@ -240,7 +240,7 @@ What’s not-so-great is, the book is boring. Super-boring. (Really.)
 		<td>62 pages <span>(PDF)</span>
 	<tr id="sellers">
 		<th scope=row rowspan="5">Sellers
-		<td><a href="https://books.apple.com/us/book/rote-learning-html-css/id6633442792?ls=1">Apple Books</a>
+		<td><a href="https://books.apple.com/us/book/rote-learning-html-css/id6633442792">Apple Books</a>
 	<tr>
 		<td><a href="https://www.kobo.com/us/en/ebook/rote-learning-html-css">Kobo</a>
 	<tr>
