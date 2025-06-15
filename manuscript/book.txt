@@ -2,4 +2,3 @@ markdown-in-headings.md
 pipes.md
 table-row-lines.md
 floats.md
-_meiert.com.md
