@@ -9,4 +9,4 @@ C> _This is a caption for the image._
 
 C> _This is a caption for the image._
 
-Both images and captions should be centered.
+Both images and the improvised captions should be centered.
