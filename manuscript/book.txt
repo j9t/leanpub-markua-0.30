@@ -1,5 +1,6 @@
 headings-in-quotes.md
 paragraphs-in-lists.md
+centering.md
 markdown-in-headings.md
 pipes.md
 table-row-lines.md
