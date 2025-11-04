@@ -23,7 +23,7 @@ Four spaces:
 
 Quoted:
 
-* First level
+> * First level
 >   - Second level
 >     + Third level
 >       * Fourth level
