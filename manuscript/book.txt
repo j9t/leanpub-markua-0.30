@@ -6,3 +6,4 @@ pipes.md
 table-row-lines.md
 floats.md
 lists.md
+author.md
