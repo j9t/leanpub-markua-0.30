@@ -8,7 +8,7 @@ Other titles by Jens Oliver Meiert:
 ## [_On Web Development_](https://meiert.com/blog/on-web-development/) (2015)
 
 {width: 25%, float: right}
-[![The cover of “On Web Development.”](https://meiert.com/de/publications/books/on-web-development/cover.png)](https://meiert.com/blog/on-web-development/)
+[![The cover of “On Web Development.”](resources/images/cover-2.png)](https://meiert.com/blog/on-web-development/)
 
 > _On Web Development_ bundles 134 articles and the last 11 years of technical writings by Jens Oliver Meiert (meiert.com). Freshly reordered and commented, the articles cover processes and maintenance, HTML and CSS, standards, as well as development and design in general; they include coding basics and principles, carefully scathing criticism, and tips and tricks and trivia.
 
