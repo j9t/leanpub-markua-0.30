@@ -12,19 +12,19 @@ Other titles by Jens Oliver Meiert:
 
 > _On Web Development_ bundles 134 articles and the last 11 years of technical writings by Jens Oliver Meiert (meiert.com). Freshly reordered and commented, the articles cover processes and maintenance, HTML and CSS, standards, as well as development and design in general; they include coding basics and principles, carefully scathing criticism, and tips and tricks and trivia.
 
-Available at [Amazon](https://www.amazon.com/dp/B010PQPT90/?tag=meiert-20).
+Available at [Amazon](https://www.amazon.com/dp/B010PQPT90/).
 
 ## [_The Little Book of Little Books_](https://meiert.com/blog/the-little-book-of-little-books/) (2021)
 
 > _The Little Book of Little Books_ consists of lovingly polished editions of _The Little Book of HTML/CSS Frameworks_ (originally published in 2015), _The Little Book of HTML/CSS Coding Guidelines_ (2015), and _The Little Book of Website Quality Control_ (2016).
 
-Available at [Amazon](https://www.amazon.com/dp/B09LLFH2RY/?tag=meiert-20), [Apple Books](https://books.apple.com/us/book/the-little-book-of-little-books/id1596573542), [Kobo](https://www.kobo.com/us/en/ebook/the-little-book-of-little-books), [Google Play Books](https://play.google.com/store/books/details?id=H3dOEAAAQBAJ), and [Leanpub](https://leanpub.com/little-books).
+Available at [Amazon](https://www.amazon.com/dp/B09LLFH2RY/), [Apple Books](https://books.apple.com/us/book/the-little-book-of-little-books/id1596573542), [Kobo](https://www.kobo.com/us/en/ebook/the-little-book-of-little-books), [Google Play Books](https://play.google.com/store/books/details?id=H3dOEAAAQBAJ), and [Leanpub](https://leanpub.com/little-books).
 
 ## _Upgrade Your HTML_ (2019–2024)
 
 > The _Upgrade Your HTML_ series is about one thing: Picking examples of HTML in the wild, and explaining how to make that code better. Kindly. Constructively. Thoroughly, as finding a balance between detail and brevity permits.
 
-Available at [Amazon](https://www.amazon.com/dp/B0B4SD84B2/?tag=meiert-20), [Apple Books](https://books.apple.com/us/book-series/upgrade-your-html/id1569607037), [Kobo](https://www.kobo.com/us/en/series/upgrade-your-html), [Google Play Books](https://play.google.com/store/books/series?id=5AksGwAAABDJEM), and [Leanpub](https://leanpub.com/b/upgrade-your-html-1-5).
+Available at [Amazon](https://www.amazon.com/dp/B0B4SD84B2/), [Apple Books](https://books.apple.com/us/book-series/upgrade-your-html/id1569607037), [Kobo](https://www.kobo.com/us/en/series/upgrade-your-html), [Google Play Books](https://play.google.com/store/books/series?id=5AksGwAAABDJEM), and [Leanpub](https://leanpub.com/b/upgrade-your-html-1-5).
 
 ## [_Rote Learning HTML & CSS_](https://meiert.com/blog/rote-learning-html-and-css/) (2024)
 
