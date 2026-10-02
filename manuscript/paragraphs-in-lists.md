@@ -1,6 +1,6 @@
 # Paragraphs in Lists
 
-There should be new lines between the paragraphs of lists: 
+There should be new lines between the paragraphs of lists:
 
 ~~[…]~~ think about _dependency direction._
 
